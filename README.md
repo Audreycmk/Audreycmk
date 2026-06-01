@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Audrey </h1> 
-<h5 align="center">A Hong Kong student studying frontend development</h5>
+<h5 align="center">A Project Manager in an AI Start-up in Hong Kong who also build websites and apps</h5>
 
 <div>
 <h5 align="left">Connect with me:</h5>
